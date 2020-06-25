@@ -1,0 +1,5 @@
+kapcsolatokat azután tudjuk beolvasni hogy megvannak a körzetek ez egy masik file
+MAINID;kapcsolodo korzetek
+1 1-2-3-4-5
+vizsgálva: többet nem lehet mingt a maxkapcs
+érvényetelen esetek: -azonosíto hianyzik, -kapcsolatok hianyoznak, -nem szam formatum

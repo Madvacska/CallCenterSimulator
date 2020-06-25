@@ -1,0 +1,6 @@
+csak id-k legyenk eltárolva egy fileban pl így
+id0
+id1
+id234
+A formátum muszaj hogy ez legyen (1-9)XYZ
+pl:1ABC; 2ABD;

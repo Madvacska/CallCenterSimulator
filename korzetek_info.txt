@@ -1,0 +1,2 @@
+ID;max_kapcs;MainKPadatai;
+0;5;(azonosito;típus)prog altal;kapcsolotabla_max;(Kapcsolotabla ures minden inditasra);
